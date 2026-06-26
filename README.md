@@ -1,5 +1,4 @@
-# EDA-Pharma-Sales-Data-2014-2019
-EDA Pharma Sales Data 2014-2019
+# About the dataset
 
 The dataset is built from the initial dataset consisted of 600000 transactional data collected in 6 years (period 2014-2019), indicating date and time of sale, pharmaceutical drug brand name and sold quantity, exported from Point-of-Sale system in the individual pharmacy. Selected group of drugs from the dataset (57 drugs) is classified to the following Anatomical Therapeutic Chemical (ATC) Classification System categories:
 
